@@ -5,6 +5,7 @@
     "experimentalDecorators": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "useDefineForClassFields": false,
     "lib": [
       "ES2018"
     ],
